@@ -5,7 +5,6 @@
 import datetime
 from bs4 import BeautifulSoup as BS
 from selenium import webdriver
-from functools import reduce
 import pandas as pd
 import time
 import os
